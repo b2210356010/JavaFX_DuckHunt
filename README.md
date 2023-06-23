@@ -1,4 +1,5 @@
-# Please specify the location (e.g. src/ or src/mypackage) 
+# DuckHunt Game README.md
+Please specify the location (e.g. src/ or src/mypackage) 
 where your implementation should be compiled at:
 
 C:\Users\oktay\IdeaProjects\Assignment\src
@@ -6,9 +7,7 @@ C:\Users\oktay\IdeaProjects\Assignment\src
 ///////////////////////////////////////////////////
 
 
-Please specify the command that is needed 
-to COMPILE your implementation:
-(e.g. javac Main.java)
+Please specify the command that is needed to COMPILE your implementation: (e.g. javac Main.java)
 Note that any external libraries are not allowed!
 
 javac *.java 
@@ -16,9 +15,7 @@ javac *.java
 ///////////////////////////////////////////////////
 
 
-Please specify the command that is needed 
-to RUN your implementation:
-(e.g. java Main)
+Please specify the command that is needed to RUN your implementation: (e.g. java Main)
 Note that any external libraries are not allowed!
 
 java DuckHunt
